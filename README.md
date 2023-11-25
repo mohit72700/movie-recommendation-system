@@ -9,3 +9,6 @@
 <p> "streamlit run App.py". After running this command local server will be open and u will see the result like image which i have given in my repository.</p>
 
 ## 4. Other sources requirment 
+<p> You will see that there will be requirement of API key in App.py file. For getting API key you will have to create a account on tmdb website and then you will get your API key from there. For fetching the poster u will be required of tmdb website. </p>
+
+## NOTE: If still you are facing any difficulty the u can contact me: mohit72700@gmail.com
