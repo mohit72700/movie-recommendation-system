@@ -1,5 +1,5 @@
 # movie-recommendation-system
 ##  1. Software requirement 
-      * Jupyter Notebook
-      * Pycharm
+      * <p> Jupyter Notebook </p>
+      *<p>  Pycharm </p>
       
